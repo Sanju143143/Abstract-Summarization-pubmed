@@ -1,2 +1,2 @@
 # Abstract-Summarization-pubmed
-Abstract Summarization on tranformer models
+MTech thesis code for abstractive text summarization using BART, T5, and Pegasus on PubMed and ArXiv datasets.
